@@ -42,7 +42,7 @@ dependencies {
 
     // Ripple library.
     //compile 'com.ripple:ripple-core:0.0.1-SNAPSHOT'
-    compile 'com.github.ripple-unmaintained:ripple-lib-java:890fbf6c0f67fb26db8e024462b6e766f0cb25dd'
+    compile 'com.github.ripple-unmaintained:ripple-lib-java:8a5b3e7bfd'
 
     // Typesafe config.
     compile 'com.typesafe:config:1.2.1'
