@@ -41,7 +41,8 @@ dependencies {
     compile "com.fasterxml.jackson.module:jackson-module-kotlin:2.9.5"
 
     // Ripple library.
-    compile 'com.ripple:ripple-core:0.0.1-SNAPSHOT'
+    //compile 'com.ripple:ripple-core:0.0.1-SNAPSHOT'
+    compile 'com.github.ripple-unmaintained.ripple-lib-java:ripple-core:890fbf6c0f67fb26db8e024462b6e766f0cb25dd'
 
     // Typesafe config.
     compile 'com.typesafe:config:1.2.1'
